@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "115563705609",
+    "project_id": "fertiflow-88493",
+    "storage_bucket": "fertiflow-88493.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115563705609:android:ff2e39707653302d13cfd8",
+        "android_client_info": {
+          "package_name": "com.example.fertiflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcsHxz_JM37Z_a6s7ZVy4hfxEsSgaK1z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
